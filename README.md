@@ -1,6 +1,6 @@
 # Base Project
-[![Build Status](https://travis-ci.org/1061-FCU-SE/BaseProject.svg?branch=master)](https://travis-ci.org/1061-FCU-SE/BaseProject)
-[![codecov](https://codecov.io/gh/1061-FCU-SE/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/1061-FCU-SE/BaseProject)
+[![Build Status](https://travis-ci.org/rabbit1112/BaseProject.svg?branch=master)](https://travis-ci.org/rabbit1112/BaseProject)
+[![codecov](https://codecov.io/gh/rabbit1112/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/rabbit1112/BaseProject)
 
 ## Structure
 ```
